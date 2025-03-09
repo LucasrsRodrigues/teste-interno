@@ -1,0 +1,15 @@
+export const ROUTES = {
+    ConfirmPin: "ConfirmPin",
+    Dashboard: "Dashboard",
+    Exchange: "Exchange",
+    ListTokens: "ListTokens",
+    TokenDetail: "TokenDetail",
+    WelcomeBack: "WelcomeBack",
+    Onboarding: "Onboarding",
+    Welcome: "Welcome",
+    CreatePin: "CreatePin",
+    RegisterAddress: "RegisterAddress",
+    RegisterConfirmPhone: "RegisterConfirmPhone",
+    RegisterPersonalInfo: "RegisterPersonalInfo",
+    RegisterPhone: "RegisterPhone",
+} as const;
